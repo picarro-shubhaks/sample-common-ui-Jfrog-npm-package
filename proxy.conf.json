@@ -1,0 +1,12 @@
+{
+  "/fw/ws": {
+    "target": "wss://slim100-beta.corp.picarro.com:3001",
+    "secure": false,
+    "ws": true
+  },
+  "/fw": {
+    "target": "http://slim100-beta.corp.picarro.com:8090",
+    "pathRewrite": { "^/fw": "" },
+    "secure": false
+  }
+}

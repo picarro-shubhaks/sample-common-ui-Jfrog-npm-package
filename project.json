@@ -49,6 +49,7 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "test3-jfrog-npm:build",
+        "proxyConfig": "./proxy.conf.json",
         "hmr": true
       },
       "configurations": {
