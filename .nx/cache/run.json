@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run test3-jfrog-npm:serve",
+    "startTime": "2024-02-18T11:11:54.064Z",
+    "endTime": "2024-02-18T11:12:46.463Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "test3-jfrog-npm:serve:development",
+      "target": "serve",
+      "projectName": "test3-jfrog-npm",
+      "hash": "1a7691526c798ae1ea8005724e8baab94f1d7a27b3debe1c83729adfc8a4360a",
+      "startTime": "2024-02-18T11:11:54.067Z",
+      "endTime": "2024-02-18T11:12:46.463Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
